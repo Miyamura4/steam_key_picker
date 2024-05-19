@@ -4,4 +4,4 @@ Next make sure you have a full hd resolution. Open fullscreen steam window and o
 
 And finally, after generated steam keys open "new.py" and fast switch window to steam key activation.
 
-It's my second job, be kindfull.
+It's my second job, be kind.
