@@ -10,7 +10,7 @@ import mouse
 sys.setrecursionlimit(15000)
 import pyperclip as pc
 
-f = open("d.txt", "r")
+f = open("keyss.txt", "r")
 x = 0
 
 
@@ -78,7 +78,7 @@ def pidoras(x, f = open("keyss.txt", "r")):
 
 def loop4():
  while True:
-  pidoras(x, open("d.txt", "r"))
+  pidoras(x, open("keyss.txt", "r"))
   time.sleep(1)
 
 Thread(target = loop4).start()
