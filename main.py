@@ -42,5 +42,3 @@ while True:
     else:
         print("Didn't understand the answer!")
         print('fwuyoac')
-with open('d.txt') as f:
-    [print(line) for line in f.readlines()]
