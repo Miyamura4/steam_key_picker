@@ -55,7 +55,7 @@ def loop3():
 
 
 
-def pidoras(x, f = open("d.txt", "r")):
+def pidoras(x, f = open("keyss.txt", "r")):
     for line in f:
         time.sleep(4)
         print(line.split()[0])
